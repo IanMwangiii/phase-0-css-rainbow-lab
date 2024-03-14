@@ -9,3 +9,21 @@ div {
   border-right-color: transparent; /* the right side */
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
+
+div {       
+  border: 20px solid #000;          
+  display: inline-block; 
+  min-width: 20em; 
+  min-height: 25em; 
+    border-radius: 50%; 
+  border-left-color: transparent; 
+  border-right-color: transparent; 
+  border-bottom-color: transparent;
+}
+#red {border-top-color: #f00;}
+#orange { border-top-color: #ffa500;}
+#yellow {border-top-color:#ff0}
+#green {border-top-color:#00bc3f}
+#blue {border-top-color:#06f}
+#indigo {border-top-color:#8a2be2}
+#violet {border-top-color:#d300c9}
